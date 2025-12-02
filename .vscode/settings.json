@@ -1,0 +1,6 @@
+{
+    "chat.sendElementsToChat.attachCSS": true,
+    "chat.sendElementsToChat.enabled": true,
+    "chat.sendElementsToChat.attachImages": true,
+    "livePreview.defaultPreviewPath": "/login.html"
+}
